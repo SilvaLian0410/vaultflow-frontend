@@ -1,4 +1,4 @@
-Demo : https://vaultflow-frontend-lbxdii7h1-julians-projects-b460b649.vercel.app/
+Demo : https://vaultflow-frontend.vercel.app/
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 

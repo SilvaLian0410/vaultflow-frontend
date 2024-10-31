@@ -100,9 +100,9 @@ export default function Home() {
       </section>
 
       {/* Features Section */}
-      <section className="container mx-auto px-20 py-20">
+      <section className="container mx-auto px-4 md:px-20 py-20">
         <div className="text-center mb-16">
-          <h2 className="text-4xl font-bold text-white mb-4">
+          <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
             Features that
             <br />
             work for your
@@ -115,8 +115,8 @@ export default function Home() {
           </p>
         </div>
 
-        <div className="grid md:grid-cols-2 gap-8">
-          <div className="bg-gray-900/50 rounded-xl p-12 border border-gray-800">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+          <div className="bg-gray-900/50 rounded-xl p-6 md:p-12 border border-gray-800">
             <div className="w-12 h-12 bg-purple-600 rounded-lg mb-6 flex items-center justify-center">
               <Image
                 src="/Icon Image.png"
@@ -139,7 +139,7 @@ export default function Home() {
             </Button>
           </div>
 
-          <div className="bg-gray-900/50 rounded-xl p-12 border border-gray-800">
+          <div className="bg-gray-900/50 rounded-xl p-6 md:p-12 border border-gray-800">
             <div className="w-12 h-12 bg-purple-600 rounded-lg mb-6 flex items-center justify-center">
               <Image
                 src="/Icon Image (1).png"
@@ -164,7 +164,7 @@ export default function Home() {
         </div>
 
         {/* Code Collaboration Section */}
-        <div className="w-full bg-gray-900/50 rounded-xl p-12 border border-gray-800 flex flex-col md:flex-row mt-8">
+        <div className="w-full bg-gray-900/50 rounded-xl p-6 md:p-12 border border-gray-800 flex flex-col md:flex-row mt-8">
           <div className="flex-1 mb-6 md:mb-0">
             <div className="w-12 h-12 bg-purple-600 rounded-lg mb-6 flex items-center justify-center">
               <Image
@@ -201,8 +201,8 @@ export default function Home() {
         </div>
 
         {/* Powerful Analytics Section */}
-        <div className="w-full bg-gray-900/50 rounded-xl p-12 border border-gray-800 mt-8">
-          <h3 className="text-3xl font-bold text-white mb-4 text-center">
+        <div className="w-full bg-gray-900/50 rounded-xl p-6 md:p-12 border border-gray-800 mt-8">
+          <h3 className="text-2xl md:text-3xl font-bold text-white mb-4 text-center">
             Our powerful analytics
             <br />
             provides invaluable insights.

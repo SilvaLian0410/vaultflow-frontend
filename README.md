@@ -1,5 +1,7 @@
 Demo : https://vaultflow-frontend.vercel.app/
 
+![image](https://github.com/user-attachments/assets/97ab9ca8-6258-43c8-8d1b-44143d7ffdda)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
